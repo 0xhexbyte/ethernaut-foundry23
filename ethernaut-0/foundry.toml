@@ -3,4 +3,8 @@ src = "src"
 out = "out"
 libs = ["lib"]
 
+#eth_rpc_url = "https://eth-mainnet.g.alchemy.com/v2/dZyuU1e8FUY2Rtd_xF4rhtUREO6fkOL2"
+#etherscan_api_key = "dZyuU1e8FUY2Rtd_xF4rhtUREO6fkOL2"
+RAW_PRIVATE_KEY = "c014363121901919c45e0d9b923db8888b46dde3450246c88e88b18d0ae31330"
+FORK_URL = "https://sepolia.infura.io/v3/266f81aee2da4779baf961d3aeb7f0cf"
 # See more config options https://github.com/foundry-rs/foundry/tree/master/config
